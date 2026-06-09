@@ -1,12 +1,15 @@
 Portfolio Website:
+
 This is a personal portfolio website built using HTML and CSS. The website showcases my profile, skills, projects, education, and contact information in a clean and professional layout. The project demonstrates my understanding of web development fundamentals, including page structure, styling, responsive design, and user-friendly navigation.
 
 README Description:
+
 Portfolio Website
 
 A simple and responsive portfolio website created using HTML and CSS.
 
 Features:
+
 Clean and modern design
 About Me section
 Skills showcase
